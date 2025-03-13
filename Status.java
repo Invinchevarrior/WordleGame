@@ -2,7 +2,6 @@ package Wordle;
 
 /**
  * Enum for result of each character guessed
- * @author Jai Wargacki
  */
 public enum Status {
     INCORRECT("\u2B1B"),

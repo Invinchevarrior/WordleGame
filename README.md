@@ -1,6 +1,6 @@
 # Java Wordle Game
 
-A Java implementation of the popular word-guessing game Wordle with an intelligent hint system and bot player.
+A Java implementation of the popular word-guessing game Wordle with an intelligent hint system.
 
 ## Features
 

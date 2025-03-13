@@ -30,8 +30,8 @@ A Java implementation of the popular word-guessing game Wordle with an intellige
   - `Wordle.java`: Main GUI and game controller
   - `WordleGame.java`: Core game logic and state management
   - `Solution.java`: Hint system implementation
-  - `WordleBot.java`: Automated solver
-  - `WordComparator.java`: Word ranking algorithm
+  - `GuessException.java`: Constructor for a GuessException
+  - `Status.java`: Check status of the word
 
 ## Getting Started
 
@@ -44,6 +44,3 @@ A Java implementation of the popular word-guessing game Wordle with an intellige
 2. Ensure `words.txt` is in the project root directory
 3. Compile and run `Wordle.java`
 
-```bash
-javac Wordle/*.java
-java Wordle.Wordle
